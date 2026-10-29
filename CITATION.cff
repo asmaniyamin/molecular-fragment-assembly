@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software or derivatives in your research, please cite this software using the metadata below."
+type: software
+title: "Fragment Assembly as Goal-Reaching: A Reinforcement Learning Approach to Targeted Molecular Design"
+authors:
+  - family-names: "Yamin"
+    given-names: "Asmani"
+license: Apache-2.0
